@@ -1,0 +1,257 @@
+<!--
+=======================================
+Intro Text
+======================================= 
+-->
+<instructions>
+<title>WELCOME TO IT ESSENTIALS VIRTUAL DESKTOP</title>
+<text><br>Our Virtual Desktop enables you to learn the essential steps to assemble a desktop computer, explore its components, and test your knowledge. If this is your first time, please take a moment to walk through the key features of the Virtual Desktop. This walkthrough is always available by pressing Help in the upper right hand corner.</text>
+</instructions>
+
+<instructions>
+<title>WELCOME TO IT ESSENTIALS VIRTUAL DESKTOP</title>
+<text><br>Our Virtual Desktop enables you to learn the essential steps to assemble a desktop computer, explore its components, and test your knowledge. If this is your first time, please take a moment to walk through the key features of the Virtual Desktop. This walkthrough is always available by pressing Help in the upper right hand corner.</text>
+</instructions>
+
+<instructions>
+<title>WELCOME TO IT ESSENTIALS VIRTUAL DESKTOP</title>
+<text><br>Our Virtual Desktop enables you to learn the essential steps to assemble a desktop computer, explore its components, and test your knowledge. If this is your first time, please take a moment to walk through the key features of the Virtual Desktop. This walkthrough is always available by pressing Help in the upper right hand corner.</text>
+</instructions>
+
+<instructions>
+<title>WELCOME TO IT ESSENTIALS VIRTUAL DESKTOP</title>
+<text><br>Our Virtual Desktop enables you to learn the essential steps to assemble a desktop computer, explore its components, and test your knowledge. If this is your first time, please take a moment to walk through the key features of the Virtual Desktop. This walkthrough is always available by pressing Help in the upper right hand corner.</text>
+</instructions>
+
+<instructions>
+<title>WELCOME TO IT ESSENTIALS VIRTUAL DESKTOP</title>
+<text><br>Our Virtual Desktop enables you to learn the essential steps to assemble a desktop computer, explore its components, and test your knowledge. If this is your first time, please take a moment to walk through the key features of the Virtual Desktop. This walkthrough is always available by pressing Help in the upper right hand corner.</text>
+</instructions>
+<!--
+=======================================
+ Accordian Menu
+======================================= 
+-->
+<accordian id="  UNDERSIDE LAYER" file="mcBOTTOMLAYER">
+	<text><br>The underside of the laptop gives you access to the battery, RAM, and the hard disk drive. You can also see the docking connector, the battery release lever, the battery latch, speakers, and the Microsoft Certificate of Authenticity (COA) label.<br><br>On the underside of the laptop, you will work with the following components:
+	<UL><li>Battery</li><li>RAM</li><li>Hard Disk Drive</li></UL>
+	</text>
+	<text2><br>REMOVE BATTERY<br><ul><li>It is good practice to remove the battery before replacing any other hardware. Click the battery to begin the removal process.</li><li>Unlock the battery  using the battery latch.</li><li>Release the battery  using the battery release lever.</li><li>Remove the battery  from the laptop.</li></ul><br>REPLACE RAM<ul><li>Position the laptop  for RAM replacement.</li><li>Remove the RAM access panel screw.</li><li>Remove the RAM access  panel.</li><li>Unlock the RAM  retainer clips on each side of the module.</li><li>Remove the RAM module.</li><li>Retrieve the new RAM  module from the antistatic mat.</li><li>Align the key notch on  the RAM module edge connector to the raised key in the slot.&nbsp; Insert the RAM into the RAM slot.</li><li>Press down on the RAM  module to secure it with the retainer clips.</li><li>Retrieve the RAM  access panel from the antistatic mat.</li><li>Place the RAM access  panel over the installed RAM module.</li><li>Retrieve the RAM access panel screw from the antistatic mat.</li><li>Attach the RAM access  panel to the laptop using the RAM access panel screw.</li></ul><br>REPLACE HARD DISK DRIVE<ul><li>Position the laptop  for HDD replacement.</li><li>Remove the HDD access  panel screw.</li><li>Open the laptop  slightly.</li><li>Remove the HDD from  the laptop.</li><li>Remove the HDD  mounting bracket screws.</li><li>Remove the HDD access  panel from the HDD.</li><li>Remove the HDD from  the HDD mounting bracket.</li><li>Retrieve the HDD from the antistatic mat.</li><li>Place the new HDD onto the HDD mounting bracket.</li><li>Retrieve the HDD  access panel from the antistatic mat.</li><li>Place the HDD access  panel on the HDD.</li><li>Retrieve the HDD  mounting bracket screws from the antistatic mat.</li><li>Secure the HDD  mounting bracket using the HDD mounting bracket screws.</li><li>Install the HDD in the  laptop.</li><li>Retrieve the HDD  access panel screw from the antistatic mat.</li><li>Secure the HDD access  panel to the laptop using the HDD access panel screw.</li></ul><br>RE-INSTALL BATTERY<ul><li>Retrieve the battery  from the antistatic mat.</li><li>Place the battery in the  laptop.&nbsp; </li><li>Lock the battery latch  to secure the battery in the laptop.</li></ul><br><br><br></text2>
+	<text3>You have completed the underside installation. You may now return to the course lesson, or continue exploring your virtual computer.</text3>
+</accordian>
+
+
+<accordian id=" TOP & SIDES LAYER" file="mcTOPLAYER">
+	<text><br>The  sides of the laptop have bays that allow you to install devices that increase  the functionality of the laptop. You can install many different devices into  the universal bay, including optical drives, hard disk drives, and extra  batteries. You can install different types of cards into the PC card slots, including Ethernet, wireless Ethernet, modems, and memory card readers. <br><br>On the top and sides of the laptop, you will work with the following components:
+<ul><li>Optical Drive</li><li>PC Card</li></ul></text>
+	<text2><br>REPLACE OPTICAL DRIVE<ul><li>Position the laptop  for optical drive replacement.</li><li>Unlock the optical  drive using the universal drive latch.</li><li>Eject the optical  drive using the universal bay tab.</li><li>Remove the optical  drive.</li><li>Retrieve the optical  drive from the antistatic mat.</li><li>Install the optical  drive into the laptop.</li><li>Lock the optical drive  using the universal drive bay.</li></ul>
+REPLACE PC CARD<ul><li>Position the laptop  for PC Card replacement.</li><li>Press the PC Card  eject button to engage it. </li><li>Press the PC Card  eject button again to eject the PC Card. </li><li>Remove the PC Card.</li><li>Retrieve the PC Card  from the antistatic mat.</li><li>Align the PC Card with  the PC Card slot.</li><li>Install the PC Card  into the PC Card slot.</li></ul><BR><BR></text2>
+<text3>You have completed installing the Optical Drive and the PC Card. You may now return to the course lesson, or continue exploring your virtual computer.</text3>
+</accordian>
+
+
+<accordian id=" DOCKING STATION LAYER" file="mcDOCKINGSTATION">
+	<text><br>You  use the docking station to quickly connect and use devices that are normally connected to desktop computers, including a mouse, a full-sized keyboard, and  an external monitor. You can charge the laptop while it is connected to the  docking station. The docking station also provides additional expansion ports, including USB ports, the PC Card slot and the ExpressCard slot. You can charge the laptop battery while it is connected to the docking station.<br><br>On the docking station, you will work with the following components:<BR><ul><li>Laptop</li></text>
+	<text2><br>INSTALL LAPTOP<ul><li>Retrieve the laptop  from the antistatic mat.</li><li>Attach the laptop to  the docking station.</li></ul></text2>
+	<text3>You have completed installing the laptop onto the docking station. You may now return to the course lesson, or continue exploring your virtual computer.</text3>
+</accordian>
+
+
+<accordian id=" EXTERNAL CABLES LAYER" file="mcDOCKINGCABLES">
+	<text><br>Power Cable<br><br><li>It is good practice to unplug the power cable before connecting any other cables.</li></li><br>External cables connect the docking station to the monitor, mouse, keyboard, USB  devices, Ethernet, and AC power. <BR><BR>In  the external cables layer, you will work with the following components:<ul>
+  <li>Monitor Cable</li><li>Keyboard Cable</li><li>Mouse Cable</li><li>USB Cable</li><li>Ethernet Cable</li><li>Power Cable</li></ul></text>
+	<text2><br>MONITOR CABLE<ul><li>Retrieve the monitor  cable from the antistatic mat.</li><li>Align the monitor  cable connector to the DVI connector on the docking station. </li><li>Connect the monitor  cable.</li></ul><BR>KEYBOARD CABLE<ul><li>Retrieve the keyboard  cable from the antistatic mat.</li><li>Align the keyboard  cable connector to the PS/2 keyboard connector on the docking station. </li><li>Connect the keyboard cable.</li></ul><BR>MOUSE CABLE<ul><li>Retrieve the mouse  cable from the antistatic mat.</li><li>Align the mouse cable  connector to the PS/2 mouse connector on the docking station. </li><li>Connect the mouse  cable.</li></ul>
+USB CABLE<ul><li>Retrieve the USB cable  from the antistatic mat.</li><li>Align the USB cable  connector to the USB connector on the docking station. </li><li>Connect the USB cable.</li></ul>
+ETHERNET CABLE<ul><li>Retrieve the Ethernet  cable from the antistatic mat.</li><li>Align the Ethernet  cable connector to the Ethernet connector on the docking station.</li><li>Connect the Ethernet cable.</li></ul>
+POWER CABLE<ul><li>Retrieve the power  cable from the antistatic mat.</li><li>Align the power cable  connector to the power connector on the docking station. </li><li>Connect the power  cable.</li></ul><BR><BR></text2>
+<text3>You have completed connecting the external cables to the docking station. You may now return to the course lesson, or continue exploring your virtual computer.</text3>
+</accordian> 
+<!--
+=======================================
+ Devices
+======================================= 
+-->
+<thumb id="iBattery" accessLevel="0">
+	<title></title>
+	<title2>Battery</title2>
+	<smallImg>battery.png</smallImg>
+	<largeImg>battery.png</largeImg>
+	<explore>explore_battery.swf</explore>
+</thumb> 
+
+<thumb id="iRAM" accessLevel="0">
+	<title></title>
+	<title2>RAM</title2>
+	<smallImg>ram.png</smallImg>
+	<largeImg>ram.png</largeImg>
+	<explore>explore_ram.swf</explore>
+</thumb> 
+
+<thumb id="iRAMCover" accessLevel="0">
+	<title>RAM Access</title>
+	<title2>Panel</title2>
+	<smallImg>ramaccesspanel.png</smallImg>
+	<largeImg>ramaccesspanel.png</largeImg>
+	<explore></explore>
+</thumb>
+
+<thumb id="iRAMCoverScrew" accessLevel="0">
+	<title>RAM Panel</title>
+	<title2>Screw</title2>
+	<smallImg>ramaccesspanelsc.png</smallImg>
+	<largeImg>ramaccesspanelsc.png</largeImg>
+	<explore></explore>
+</thumb>
+
+<thumb id="iHardDriveScrew" accessLevel="0">
+	<title>HDD Panel</title>
+	<title2>Screw</title2>
+	<smallImg>hddpanelscrew.png</smallImg>
+	<largeImg>hddpanelscrew.png</largeImg>
+	<explore></explore>
+</thumb>
+
+<thumb id="iHardDrive" accessLevel="0">
+	<title>Hard Disk</title>
+	<title2>Drive (HDD)</title2>
+	<smallImg>harddiskdrive.png</smallImg>
+	<largeImg>harddiskdrive.png</largeImg>
+	<explore>explore_harddiskdrive.swf</explore>
+</thumb> 
+
+<thumb id="iHardDriveSledScrews" accessLevel="0">
+	<title>HDD Bracket</title>
+	<title2>Screws</title2>
+	<smallImg>hddbracketscrews.png</smallImg>
+	<largeImg>hddbracketscrews.png</largeImg>
+	<explore></explore>
+</thumb>
+
+<thumb id="iHardDriveSledPanel" accessLevel="0">
+	<title>HDD</title>
+	<title2>Access Panel</title2>
+	<smallImg>hddaccesspanel.png</smallImg>
+	<largeImg>hddaccesspanel.png</largeImg>
+	<explore></explore>
+</thumb> 
+
+<thumb id="iOpticalDrive" accessLevel="0">
+	<title></title>
+	<title2>Optical Drive</title2>
+	<smallImg>opticaldrive.png</smallImg>
+	<largeImg>opticaldrive.png</largeImg>
+	<explore>explore_opticaldrive.swf</explore>
+</thumb> 
+
+<thumb id="iPCCard" accessLevel="0">
+	<title></title>
+	<title2>PC Card</title2>
+	<smallImg>pccard.png</smallImg>
+	<largeImg>pccard.png</largeImg>
+	<explore>explore_pccard.swf</explore>
+</thumb> 
+
+<thumb id="iLaptop" accessLevel="0">
+	<title></title>
+	<title2>Laptop</title2>
+	<smallImg>laptop.png</smallImg>
+	<largeImg>laptop.png</largeImg>
+	<explore>explore_laptop.swf</explore>
+</thumb> 
+
+<thumb id="iDockingStation" accessLevel="0">
+	<title>Docking</title>
+	<title2>Station</title2>
+	<smallImg>dockingstation.png</smallImg>
+	<largeImg>dockingstation.png</largeImg>
+	<explore>explore_dockingstation.swf</explore>
+</thumb> 
+
+<thumb id="iPowerCable" accessLevel="0">
+	<title></title>
+	<title2>Power Cable</title2>
+	<smallImg>powercable.png</smallImg>
+	<largeImg>powercable.png</largeImg>
+	<explore>explore_powercable.swf</explore>
+</thumb>
+
+<thumb id="iEthernetCable" accessLevel="0">
+	<title>Ethernet</title>
+	<title2>Cable</title2>
+	<smallImg>ethernetcable.png</smallImg>
+	<largeImg>ethernetcable.png</largeImg>
+	<explore>explore_ethernetcable.swf</explore>
+</thumb> 
+
+<thumb id="iMonitorCable" accessLevel="0">
+	<title>Montitor</title>
+	<title2>Cable</title2>
+	<smallImg>monitorcable.png</smallImg>
+	<largeImg>monitorcable.png</largeImg>
+	<explore>explore_monitorcable.swf</explore>
+</thumb> 
+
+<thumb id="iUSBCable" accessLevel="0">
+	<title></title>
+	<title2>USB Cable</title2>
+	<smallImg>usbcable.png</smallImg>
+	<largeImg>usbcable.png</largeImg>
+	<explore>explore_usbcable.swf</explore>
+</thumb>
+
+<thumb id="iKeyboardCable" accessLevel="0">
+	<title>Keyboard</title>
+	<title2>Cable</title2>
+	<smallImg>keyboardcable.png</smallImg>
+	<largeImg>keyboardcable.png</largeImg>
+	<explore>explore_keyboardcable.swf</explore>
+</thumb> 
+
+<thumb id="iMouseCable" accessLevel="0">
+	<title>Mouse</title>
+	<title2>Cable</title2>
+	<smallImg>mousecable.png</smallImg>
+	<largeImg>mousecable.png</largeImg>
+	<explore>explore_mousecable.swf</explore>
+</thumb>
+
+
+<!--
+=======================================
+Lessons
+======================================= 
+-->
+
+<lesson layer="1" file="BottomLayer.swf">
+	<modelName id="iBattery" />
+	<modelName id="iRAM" />
+	<modelName id="iRAMCover" />
+	<modelName id="iRAMCoverScrew" />
+	<modelName id="iHardDrive" />
+	<modelName id="iHardDriveSledPanel" />
+	<modelName id="iHardDriveSledScrews" />
+	<modelName id="iHardDriveScrew" />
+</lesson>
+
+<lesson layer="2" file="TopLayer.swf">
+	<modelName id="iPCCard" />
+	<modelName id="iOpticalDrive" />
+</lesson>
+
+<lesson layer="3" file="DockingStation.swf">
+	<modelName id="iLaptop" />
+</lesson>
+
+<lesson layer="4" file="DockCables.swf">
+	<modelName id="iPowerCable" />
+	<modelName id="iEthernetCable" />
+	<modelName id="iMonitorCable" />
+	<modelName id="iUSBCable" />
+	<modelName id="iKeyboardCable" />
+	<modelName id="iMouseCable" />
+</lesson>
+
+
+
+
+
