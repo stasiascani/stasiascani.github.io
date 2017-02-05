@@ -1,0 +1,22 @@
+*{
+margin:0;
+padding:0;
+}
+#waterfall {
+background: url(https://s19.postimg.org/mhli1a7tf/energodar.jpg);   
+width: 100%;
+height: 100%;
+position: absolute;
+z-index: 0;
+-webkit-transition: flow 3s ease-in;
+    -moz-transition: flow 3s ease-in;
+    -o-transition: flow 3s ease-in;
+    transition: flow 3s ease-in;
+
+animation: flow 40000s linear infinite;
+}
+
+@keyframes flow {
+0% {background-position: 0 0;}
+100% {background-position: 0 100000%;}
+}
