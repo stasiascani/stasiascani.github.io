@@ -1,0 +1,25 @@
+.. 9 documentation master file, created by
+   sphinx-quickstart on Mon Jul 13 18:39:20 2015.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Школьный курс информатики
+=============================
+
+Содержание:
+
+.. toctree::
+   :maxdepth: 1
+   
+   nine
+   ten
+   eleven
+
+
+Ссылки на другие ресурсы
+========================
+
+* `Сайт Moodle <http://informatika.zp.ua/moodle>`_ 
+
+* Блог учителя информатики
+
